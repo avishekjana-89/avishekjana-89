@@ -10,8 +10,8 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **[mcp-httpx](https://github.com/avishekjana-89/mcp-httpx)** and building a no-code tool called **[Flowright](https://github.com/avishekjana-89/flowright)**. 
-- 🌱 I'm currently learning **Kubernetes, Gen AI, MCP Server.**
+- 🔭 I build tools that make testing smarter — my latest is **[AI-ETL-Tester](https://github.com/avishekjana-89/ai-etl-tester)**, which uses AI to automate ETL data validation.
+- 🌱 Currently obsessed with **Agentic AI & MCP** — and diving into **prompt engineering, RAG & LLM integrations** along the way.
 - 💬 Got a question about QA? **From writing test cases to setting up test automation, I’m happy to share what I’ve learned (and still learning)!**
 - 📫 How to reach me: **avishekjana89@gmail.com**
 - ⚡ Fun fact: **Set up my home security cameras using Raspberry Pi — no external NVR system needed! DIY tech + privacy = 💪**
@@ -28,6 +28,29 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <!-- Add or replace with technologies you use -->
 </p>
+
+## 🚀 Featured Projects
+
+### 🧪 [AI-ETL-Tester](https://github.com/avishekjana-89/ai-etl-tester)
+
+A SaaS platform that automates ETL testing using AI — upload a mapping document and get validated SQL test cases instantly.
+Supports PostgreSQL, MySQL, MSSQL, CSV, Excel & Parquet with OpenAI, Anthropic, or local Ollama models.
+
+---
+
+### 🌊 [Flowright](https://github.com/avishekjana-89/flowright)
+
+A Playwright-based browser automation tool that lets you build and run end-to-end workflows without writing scripts.
+Designed for testers and developers who want to automate repetitive browser tasks through a simple, flow-driven interface.
+
+---
+
+### 🔌 [mcp-httpx](https://github.com/avishekjana-89/mcp-httpx)
+
+An MCP (Model Context Protocol) server built with HTTPX for making HTTP requests directly from AI assistants.
+Enables AI models to browse APIs, fetch data, and interact with the web seamlessly.
+
+---
 
 ## 📊 GitHub Stats
 
